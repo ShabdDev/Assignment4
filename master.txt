@@ -1,1 +1,1 @@
-This is Master text file in master branch
+This is Master text file in master branch but now edited in private branch
